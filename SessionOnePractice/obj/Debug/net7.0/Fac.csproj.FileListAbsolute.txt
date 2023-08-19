@@ -1,0 +1,15 @@
+C:\Users\hamid\source\repos\SessionOnePractice\SessionOnePractice\bin\Debug\net7.0\Fac.exe
+C:\Users\hamid\source\repos\SessionOnePractice\SessionOnePractice\bin\Debug\net7.0\Fac.deps.json
+C:\Users\hamid\source\repos\SessionOnePractice\SessionOnePractice\bin\Debug\net7.0\Fac.runtimeconfig.json
+C:\Users\hamid\source\repos\SessionOnePractice\SessionOnePractice\bin\Debug\net7.0\Fac.dll
+C:\Users\hamid\source\repos\SessionOnePractice\SessionOnePractice\bin\Debug\net7.0\Fac.pdb
+C:\Users\hamid\source\repos\SessionOnePractice\SessionOnePractice\obj\Debug\net7.0\Fac.csproj.AssemblyReference.cache
+C:\Users\hamid\source\repos\SessionOnePractice\SessionOnePractice\obj\Debug\net7.0\Fac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid\source\repos\SessionOnePractice\SessionOnePractice\obj\Debug\net7.0\Fac.AssemblyInfoInputs.cache
+C:\Users\hamid\source\repos\SessionOnePractice\SessionOnePractice\obj\Debug\net7.0\Fac.AssemblyInfo.cs
+C:\Users\hamid\source\repos\SessionOnePractice\SessionOnePractice\obj\Debug\net7.0\Fac.csproj.CoreCompileInputs.cache
+C:\Users\hamid\source\repos\SessionOnePractice\SessionOnePractice\obj\Debug\net7.0\Fac.dll
+C:\Users\hamid\source\repos\SessionOnePractice\SessionOnePractice\obj\Debug\net7.0\refint\Fac.dll
+C:\Users\hamid\source\repos\SessionOnePractice\SessionOnePractice\obj\Debug\net7.0\Fac.pdb
+C:\Users\hamid\source\repos\SessionOnePractice\SessionOnePractice\obj\Debug\net7.0\Fac.genruntimeconfig.cache
+C:\Users\hamid\source\repos\SessionOnePractice\SessionOnePractice\obj\Debug\net7.0\ref\Fac.dll

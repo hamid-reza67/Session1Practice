@@ -1,0 +1,15 @@
+C:\Users\hamid\source\repos\SessionOnePractice\BinaryIntersectionSort\bin\Debug\net7.0\BinaryIntersectionSort.exe
+C:\Users\hamid\source\repos\SessionOnePractice\BinaryIntersectionSort\bin\Debug\net7.0\BinaryIntersectionSort.deps.json
+C:\Users\hamid\source\repos\SessionOnePractice\BinaryIntersectionSort\bin\Debug\net7.0\BinaryIntersectionSort.runtimeconfig.json
+C:\Users\hamid\source\repos\SessionOnePractice\BinaryIntersectionSort\bin\Debug\net7.0\BinaryIntersectionSort.dll
+C:\Users\hamid\source\repos\SessionOnePractice\BinaryIntersectionSort\bin\Debug\net7.0\BinaryIntersectionSort.pdb
+C:\Users\hamid\source\repos\SessionOnePractice\BinaryIntersectionSort\obj\Debug\net7.0\BinaryIntersectionSort.csproj.AssemblyReference.cache
+C:\Users\hamid\source\repos\SessionOnePractice\BinaryIntersectionSort\obj\Debug\net7.0\BinaryIntersectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid\source\repos\SessionOnePractice\BinaryIntersectionSort\obj\Debug\net7.0\BinaryIntersectionSort.AssemblyInfoInputs.cache
+C:\Users\hamid\source\repos\SessionOnePractice\BinaryIntersectionSort\obj\Debug\net7.0\BinaryIntersectionSort.AssemblyInfo.cs
+C:\Users\hamid\source\repos\SessionOnePractice\BinaryIntersectionSort\obj\Debug\net7.0\BinaryIntersectionSort.csproj.CoreCompileInputs.cache
+C:\Users\hamid\source\repos\SessionOnePractice\BinaryIntersectionSort\obj\Debug\net7.0\BinaryIntersectionSort.dll
+C:\Users\hamid\source\repos\SessionOnePractice\BinaryIntersectionSort\obj\Debug\net7.0\refint\BinaryIntersectionSort.dll
+C:\Users\hamid\source\repos\SessionOnePractice\BinaryIntersectionSort\obj\Debug\net7.0\BinaryIntersectionSort.pdb
+C:\Users\hamid\source\repos\SessionOnePractice\BinaryIntersectionSort\obj\Debug\net7.0\BinaryIntersectionSort.genruntimeconfig.cache
+C:\Users\hamid\source\repos\SessionOnePractice\BinaryIntersectionSort\obj\Debug\net7.0\ref\BinaryIntersectionSort.dll

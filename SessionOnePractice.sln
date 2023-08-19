@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fac", "SessionOnePractice\Fac.csproj", "{AA26E0F2-51D1-4E64-B21E-954286A5042D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factorial", "Factorial", "{2369F92A-2AF9-46DF-832F-C690FFF2D297}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BinarySearch", "BinarySearch", "{CDF78270-95BF-4AA5-92F4-1CB629355E1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{E72D1029-8F52-4750-8412-169F1865F354}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinearSearch", "LinearSearch", "{B8142B42-E2DE-4F78-9191-1085962F5CA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearch", "LinearSearch\LinearSearch.csproj", "{995E3707-DCA9-4BCF-9E81-0F227160BC56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BinaryIntersectionSort", "BinaryIntersectionSort", "{70CDD7B0-6C94-422F-9901-3A2ECD1B0C15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryIntersectionSort", "BinaryIntersectionSort\BinaryIntersectionSort.csproj", "{FF89228C-2AED-4ABC-96D8-B1D6037D09E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BubbleSort", "BubbleSort", "{DF4C3B49-44E7-490E-9FD3-D296C590AB0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{7440944F-23F3-48CD-94AD-87F8F20A425D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA26E0F2-51D1-4E64-B21E-954286A5042D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA26E0F2-51D1-4E64-B21E-954286A5042D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA26E0F2-51D1-4E64-B21E-954286A5042D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA26E0F2-51D1-4E64-B21E-954286A5042D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E72D1029-8F52-4750-8412-169F1865F354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E72D1029-8F52-4750-8412-169F1865F354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E72D1029-8F52-4750-8412-169F1865F354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E72D1029-8F52-4750-8412-169F1865F354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{995E3707-DCA9-4BCF-9E81-0F227160BC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995E3707-DCA9-4BCF-9E81-0F227160BC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995E3707-DCA9-4BCF-9E81-0F227160BC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995E3707-DCA9-4BCF-9E81-0F227160BC56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF89228C-2AED-4ABC-96D8-B1D6037D09E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF89228C-2AED-4ABC-96D8-B1D6037D09E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF89228C-2AED-4ABC-96D8-B1D6037D09E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF89228C-2AED-4ABC-96D8-B1D6037D09E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7440944F-23F3-48CD-94AD-87F8F20A425D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7440944F-23F3-48CD-94AD-87F8F20A425D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7440944F-23F3-48CD-94AD-87F8F20A425D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7440944F-23F3-48CD-94AD-87F8F20A425D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AA26E0F2-51D1-4E64-B21E-954286A5042D} = {2369F92A-2AF9-46DF-832F-C690FFF2D297}
+		{E72D1029-8F52-4750-8412-169F1865F354} = {CDF78270-95BF-4AA5-92F4-1CB629355E1D}
+		{995E3707-DCA9-4BCF-9E81-0F227160BC56} = {B8142B42-E2DE-4F78-9191-1085962F5CA1}
+		{FF89228C-2AED-4ABC-96D8-B1D6037D09E4} = {70CDD7B0-6C94-422F-9901-3A2ECD1B0C15}
+		{7440944F-23F3-48CD-94AD-87F8F20A425D} = {DF4C3B49-44E7-490E-9FD3-D296C590AB0A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DEB34A2-8AB9-459E-AA15-FB84A69D8328}
+	EndGlobalSection
+EndGlobal
