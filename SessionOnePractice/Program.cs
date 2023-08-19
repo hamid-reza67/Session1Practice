@@ -1,17 +1,18 @@
-﻿var isValidNumber = true;
-int number = 0;
+﻿
+var isValidNumber = false;
 do
 {
+    int number;
     Console.Write("Please enter a valid number: ");
     var castNumber = int.TryParse(Console.ReadLine(), out number);
-    if (!castNumber || number < 0)
-        isValidNumber = false;
-    else
-        isValidNumber = true;
+    if (castNumber && number >= 0)
+    {
+        Console.WriteLine(CalulateFactorial(number));
+    }
 } while (!isValidNumber);
 
 
-Console.WriteLine(CalulateFactorial(number));
+
 
 static long CalulateFactorial(int number)
 {
